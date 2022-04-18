@@ -1,8 +1,9 @@
 # Mr. Saturn (どせいさん) Console Welcome #
-===========================================
 
-![alt text](https://github.com/b10tt0/doseisan/dosei-ascii.png)
 
+![alt text](https://github.com/b10tt0/doseisan/blob/main/dosei-ascii.png)
+
+## Install + Setup Guide ##
 1. download cowsay
 	sudo apt-get install cowsay
 2. add saturn.cow file to /usr/share/cowsay/cows
